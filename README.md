@@ -1,1 +1,4 @@
 # SOLIDWORKS
+
+阿奇课程学习：
+版本 ：SOLIDWORKS Premium 2020 SP3.0
